@@ -5,7 +5,13 @@ When executed multiple times, it alternates between performing `Show windows sid
 
 Running this .exe is equivalent to manually right clicking the taskbar and selecting the appropriate operation, but this .exe can be assigned to a keyboard shortcut or a trackpad gesture.
 
-Download: [OrganizeWindows.exe](https://github.com/shurcooL/OrganizeWindows/blob/master/OrganizeWindows.exe)
+Download
+--------
+
+[OrganizeWindows.exe](https://github.com/shurcooL/OrganizeWindows/blob/master/OrganizeWindows.exe)
+
+Screenshots
+-----------
 
 ![](OrganizeWindows1.png)
 
